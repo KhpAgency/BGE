@@ -1,0 +1,8 @@
+.caroussel-inner > .item {
+    position: relative !important;
+    /* display:none !important; */
+    -webkit-transition: 0.6s ease-in-out left !important;
+    -moz-transition: 0.6s ease-in-out left !important;
+    -o-transition: 0.6s ease-in-out left !important;
+    transition: 0.6s ease-in-out left !important;
+}
